@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Gihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gi-hyeon&show_icons=true&theme=radical)
+![Gihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gi-hyeon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gi-hyeon&layout=compact&theme=tokyonight)
 
 ## Snake eating my contribution graph
