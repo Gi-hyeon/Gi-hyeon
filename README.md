@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gi-hyeon&layout=compact&theme=tokyonight)
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/Gi-hyeon/Gi-hyeon/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/Gi-hyeon/Gi-hyeon/blob/output/github-contribution-grid-snake.svg)
